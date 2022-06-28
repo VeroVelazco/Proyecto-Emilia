@@ -1,0 +1,27 @@
+:root{
+    --tipografiaTitulos : 'Relawey'
+}
+
+
+
+
+
+
+body{
+    font-family: 'Open sans';
+}
+h1{
+    font-family: var(--tipografiaTitulos);
+    text-transform: uppercase;
+   
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+ol, ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+}
